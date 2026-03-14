@@ -113,4 +113,4 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške na smjeru Telekomunikacije i informacione tehnologije.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.

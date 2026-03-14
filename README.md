@@ -112,5 +112,7 @@ Repozitorij treba sadržavati:
 - 1 riješen merge konflikt
 
 ---
+## Uvod
+Moje ime je Nejla Kavazović, imam 22 godine. Studentica sam Fakulteta elektrotehnike na odsjeku Telekomunikacije i informacione tehnologije.
 
 Ovaj repo sadrži moj GitHub zadaću.
